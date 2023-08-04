@@ -86,7 +86,7 @@ form input[type="submit"]:hover {
 
 /* responsive */
 
-@media (max-width: 768x) {
+@media (max-width: 768px) {
   form {
     flex-direction: column;
   }
